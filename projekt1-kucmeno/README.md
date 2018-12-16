@@ -1,7 +1,9 @@
 # Testowanie aplikacji JAVA 2017-2018
 ## Projekt 1 (JUnit, narzędzie Hamcrest oraz MAVEN) 
-
 -----------------------
+Wybrany PROJEKT 5 - Gra w czwórki
+-----------------------
+
 ### REGUŁY GRY
 
 1. Wybieramy **jedno** z poniższych zadań. Zadania różnią się poziomem trudności i są inaczej punkto-
