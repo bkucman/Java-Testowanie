@@ -4,7 +4,7 @@
 # Folders
 target/
 .idea/
-example/
+
 
 # files
 junit5-vanilla-maven.iml
