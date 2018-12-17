@@ -1,5 +1,8 @@
 # Testowanie aplikacji JAVA 2017-2018
 ## Projekt 2 (Maven, JUnit oraz atrapy) 
+-----------------------
+Wybrany PROJEKT 3 - Messenger
+-----------------------
 
 ## TRAVIS CI [![Build Status](https://travis-ci.com/TestowanieJAVA2017-2018Gr2/projekt2-kucmeno.svg?token=Xvb1hLsNSp1d6kzqScJR&branch=master)](https://travis-ci.com/TestowanieJAVA2017-2018Gr2/projekt2-kucmeno)
 ## BetterCodeHub [![BCH compliance](https://bettercodehub.com/edge/badge/kucmeno/Java-Projekt2?branch=master)](https://bettercodehub.com/)
